@@ -1,6 +1,6 @@
 #Example of multithreading (comparison)
 
-from threading import Thread    # multithreading librarie
+from threading import Thread    # multithreading library
 from Queue import Queue         # data structure to perform  multithreading
 import logging      
 import time                     
