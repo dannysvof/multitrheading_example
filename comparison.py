@@ -1,8 +1,8 @@
 #Example of multithreading (comparison)
 
-from threading import Thread    #pacote para fazer multithreading
-from Queue import Queue         #estrutura de dados para fazer uso de multithreading
-import logging                  #pacote para salvar logs do processamento
+from threading import Thread    # multithreading librarie
+from Queue import Queue         # data structure to perform  multithreading
+import logging      
 import time                     
 import tqdm
 import json
